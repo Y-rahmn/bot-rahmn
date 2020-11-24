@@ -10,7 +10,7 @@ This project require NodeJS v12.
 Clone this project
 
 ```bash
-> git clone https://github.com/Y-rahmn/bot-rahmn
+> git clone https://github.com/Y-rahmn/bot-rahmn.git
 > cd whatsapp-bot
 ```
 
