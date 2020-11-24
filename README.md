@@ -11,7 +11,7 @@ Clone this project
 
 ```bash
 > git clone https://github.com/Y-rahmn/bot-rahmn.git
-> cd whatsapp-bot
+> cd bot-rahmn
 ```
 
 Install the dependencies:
